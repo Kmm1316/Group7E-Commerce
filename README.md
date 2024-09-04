@@ -11,3 +11,6 @@
 	* Django
 * SQLite
 * React.js
+
+
+(JUST TRYING)
