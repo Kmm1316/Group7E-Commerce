@@ -5,11 +5,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Features](#features)
-- [Team Members](#team-members)
-- [Technologies Used](#technologies-used)
-
-
+- [Overview](#overview)
 - [Team Members](#team-members)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
@@ -20,6 +16,14 @@
 
 Sole Legacy is an e-commerce website designed as part of our Intro to Software Engineering (CSE 4214) class. The project aims to create a user-friendly online shoe store that combines the high-quality standards of Nike with the competitive pricing of Temu. Our goal is to provide a seamless shopping experience for sneaker enthusiasts, offering a range of stylish and affordable shoes.
 
+## Overview
+### Description
+Sole Legacy is an e-commerce website designed as part of our Intro to Software Engineering (CSE 4214) class. The project aims to create a user-friendly online shoe store that combines Nike's high-quality standards with Temu's competitive pricing. Our goal is to provide a seamless shopping experience for sneaker enthusiasts by offering a range of stylish and affordable shoes. 
+
+### Objective
+Our final product will be fully functional, featuring product browsing, an item wishlist, a shopping cart, checkout, and user account management to ensure a smooth shopping experience.
+
+[Click me for better view](https://kmm1316.github.io/Group7E-Commerce/)
 
 ## Features
 
@@ -29,7 +33,6 @@ Sole Legacy is an e-commerce website designed as part of our Intro to Software E
 - **Wishlist:** Save favorite products to a wishlist for future reference.
 - **Shopping Cart:** Add products to a cart, view the cart, and make necessary changes.
 - **Checkout Process:** Enjoy an easy checkout experience with an order confirmation message.
-
 
 ## Team Members
 
