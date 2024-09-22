@@ -1,44 +1,70 @@
+# Getting Started with Create React App
 
-# Sole Legacy
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Motto:** "Nike's quality at Temu's price"
+## Available Scripts
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Team Members](#team-members)
-- [Technologies Used](#technologies-used)
+In the project directory, you can run:
 
-## Overview
-### Description
-Sole Legacy is an e-commerce website designed as part of our Intro to Software Engineering (CSE 4214) class. The project aims to create a user-friendly online shoe store that combines Nike's high-quality standards with Temu's competitive pricing. Our goal is to provide a seamless shopping experience for sneaker enthusiasts by offering a range of stylish and affordable shoes. 
+### `npm start`
 
-### Objective
-Our final product will be fully functional, featuring product browsing, an item wishlist, a shopping cart, checkout, and user account management to ensure a smooth shopping experience.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-[Click me for better view](https://kmm1316.github.io/Group7E-Commerce/)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Features
+### `npm test`
 
-- **User Authentication:** Create an account and log in to fully access all the features offered.
-- **Product Catalog:** Browse a wide selection of shoes and sort them according to price, size, and color.
-- **Search Bar Feature:** Search for products across the system using user-provided keywords.
-- **Wishlist:** Save favorite products to a wishlist for future reference.
-- **Shopping Cart:** Add products to a cart, view the cart, and make necessary changes.
-- **Checkout Process:** Enjoy an easy checkout experience with an order confirmation message.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-## Team Members
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-| Name                | netID   | GitHub                                                                                     | Email                           | Role    |
-|---------------------|---------|--------------------------------------------------------------------------------------------|---------------------------------|---------|
-| Kevin McDonald       | kmm1316 | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kmm1316)            | KevinMcDonald1234556@gmail.com   | Frontend|
-| Charles Virden       | chv25   | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/charliespants)      | veecee177@gmail.com             | Backend |
-| Aayam Raj Shakya     | as5160  | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/aayamrajshakya)     | aayamrajshakya@pm.me            | Frontend|
-| Conner Roberson      | clr655  | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/conner-roberson)    | conner.roberson@gmail.com       | Backend |
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Everyone agreed to equally contribute to both the backend and frontend to develop their full-stack skills.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Technologies Used
+### `npm run eject`
 
-**Backend:** Python, Django, SQLite  |  **Frontend:** React.js
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
