@@ -1,13 +1,22 @@
+just checking something
+
 
 # Sole Legacy
 
 **Motto:** "Nike's quality at Temu's price"
 
 ## Table of Contents
+- [Project Overview](#project-overview)
 - [Overview](#overview)
-- [Features](#features)
 - [Team Members](#team-members)
 - [Technologies Used](#technologies-used)
+- [Features](#features)
+- main
+
+
+## Project Overview
+
+Sole Legacy is an e-commerce website designed as part of our Intro to Software Engineering (CSE 4214) class. The project aims to create a user-friendly online shoe store that combines the high-quality standards of Nike with the competitive pricing of Temu. Our goal is to provide a seamless shopping experience for sneaker enthusiasts, offering a range of stylish and affordable shoes.
 
 ## Overview
 ### Description
@@ -27,15 +36,14 @@ Our final product will be fully functional, featuring product browsing, an item 
 - **Shopping Cart:** Add products to a cart, view the cart, and make necessary changes.
 - **Checkout Process:** Enjoy an easy checkout experience with an order confirmation message.
 
-
 ## Team Members
 
-| Name                | netID   | GitHub                                                                                     | Email                           | Role    |
-|---------------------|---------|--------------------------------------------------------------------------------------------|---------------------------------|---------|
-| Kevin McDonald       | kmm1316 | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kmm1316)            | KevinMcDonald1234556@gmail.com   | Frontend|
-| Charles Virden       | chv25   | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/charliespants)      | veecee177@gmail.com             | Backend |
-| Aayam Raj Shakya     | as5160  | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/aayamrajshakya)     | aayamrajshakya@pm.me            | Frontend|
-| Conner Roberson      | clr655  | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/conner-roberson)    | conner.roberson@gmail.com       | Backend |
+| Name                | netID   | GitHub                                                                                     | Role    |
+|---------------------|---------|--------------------------------------------------------------------------------------------|---------|
+| Kevin McDonald       | kmm1316 | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kmm1316)            | Frontend|
+| Charles Virden       | chv25   | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/charliespants)      | Backend|
+| Aayam Raj Shakya     | as5160  | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/aayamrajshakya)     | Frontend|
+| Conner Roberson      | clr655  | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/conner-roberson)    | Backend|
 
 Everyone agreed to equally contribute to both the backend and frontend to develop their full-stack skills.
 
