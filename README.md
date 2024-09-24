@@ -1,6 +1,3 @@
-just checking something
-
-
 # Sole Legacy
 
 **Motto:** "Nike's quality at Temu's price"
@@ -11,8 +8,6 @@ just checking something
 - [Team Members](#team-members)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- main
-
 
 ## Project Overview
 
