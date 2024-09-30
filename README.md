@@ -5,9 +5,9 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Overview](#overview)
+- [Features](#features)
 - [Team Members](#team-members)
 - [Technologies Used](#technologies-used)
-- [Features](#features)
 
 ## Project Overview
 
