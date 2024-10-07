@@ -38,7 +38,6 @@ Our final product will be fully functional, featuring product browsing, an item 
 | Kevin McDonald       | kmm1316 | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kmm1316)            | Frontend|
 | Charles Virden       | chv25   | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/charliespants)      | Backend|
 | Aayam Raj Shakya     | as5160  | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/aayamrajshakya)     | Frontend|
-| Conner Roberson      | clr655  | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/conner-roberson)    | Backend|
 
 Everyone agreed to equally contribute to both the backend and frontend to develop their full-stack skills.
 
